@@ -1,1 +1,1 @@
-# GLM_EX1
+print("hello")
